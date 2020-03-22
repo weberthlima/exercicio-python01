@@ -22,6 +22,6 @@ https://github.com/weberthlima/exercicio-python01
 
 ## Aviso Importante
 
-Este projeto é ppara fim didático, e não contempla validação dos valores informados pelo usuário.
+Este projeto é para fins didáticos, e não contempla validação dos valores informados pelo usuário.
 
 
